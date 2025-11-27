@@ -1,4 +1,4 @@
-# Prevendo_Formandos_Faculdade_MLET 🎓
+# Prevendo_Formandos_Faculdade🎓
 
 Predizendo a evasão de estudantes e sucesso acadêmico 🎓
 
