@@ -1,6 +1,6 @@
 # Prevendo_Formandos_Faculdade🎓
 
-Predizendo a evasão de estudantes e sucesso acadêmico 🎓
+Prevendo a evasão de estudantes e sucesso acadêmico 🎓
 
 Sobre a base de dados 🎲
 
